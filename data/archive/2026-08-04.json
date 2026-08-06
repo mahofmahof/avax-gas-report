@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-08-06T11:19:05Z",
+  "timezone": "Europe/Istanbul",
+  "source": "archived static telemetry",
+  "date": "2026-08-04",
+  "status": "ok",
+  "sampleCount": 897,
+  "policy": {
+    "lowBelowWei": "90000000",
+    "highAboveWei": "130000000",
+    "stopAboveWei": "220000000"
+  },
+  "hours": [
+    {
+      "hour": "2026-08-04 22:00",
+      "avgGwei": 0.410417,
+      "minGwei": 0.094952,
+      "maxGwei": 1.102394,
+      "samples": 366
+    },
+    {
+      "hour": "2026-08-04 23:00",
+      "avgGwei": 0.490847,
+      "minGwei": 0.095059,
+      "maxGwei": 1.753369,
+      "samples": 531
+    }
+  ]
+}

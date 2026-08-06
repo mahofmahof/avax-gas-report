@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-08-06T11:19:05Z",
+  "timezone": "Europe/Istanbul",
+  "source": "archived static telemetry",
+  "date": "2026-08-03",
+  "status": "no-data",
+  "sampleCount": 0,
+  "policy": {
+    "lowBelowWei": "90000000",
+    "highAboveWei": "130000000",
+    "stopAboveWei": "220000000"
+  },
+  "hours": []
+}

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AVAX Gas Report</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Avalanche C-Chain</p>
+          <h1>AVAX Hourly Gas Report</h1>
+        </div>
+        <div class="topActions">
+          <label class="selectLabel" for="datasetSelect">Dataset</label>
+          <select id="datasetSelect" aria-label="Dataset">
+            <option value="data/latest.json">Latest public RPC</option>
+          </select>
+          <div class="status" id="status">Loading data...</div>
+        </div>
+      </header>
+
+      <section class="summary" aria-label="Summary">
+        <div>
+          <span class="label">24h Avg</span>
+          <strong id="avgGas">-</strong>
+        </div>
+        <div>
+          <span class="label">Lowest Hour</span>
+          <strong id="bestHour">-</strong>
+        </div>
+        <div>
+          <span class="label">Highest Hour</span>
+          <strong id="worstHour">-</strong>
+        </div>
+        <div>
+          <span class="label">Samples</span>
+          <strong id="sampleCount">-</strong>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panelHead">
+          <h2>Hourly Average</h2>
+          <span id="policyText"></span>
+        </div>
+        <canvas id="chart" height="320" aria-label="Hourly gas chart"></canvas>
+      </section>
+
+      <section class="panel">
+        <div class="panelHead">
+          <h2>Hourly Detail</h2>
+          <span id="sourceText"></span>
+        </div>
+        <div class="tableWrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Hour</th>
+                <th>Avg gwei</th>
+                <th>Min</th>
+                <th>Max</th>
+                <th>Samples</th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script src="assets/app.js"></script>
+  </body>
+</html>
