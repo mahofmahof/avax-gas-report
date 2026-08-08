@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T21:39:54Z",
+  "generatedAt": "2026-08-08T22:39:29Z",
   "timezone": "Europe/Istanbul",
   "source": "https://rpc.l1beat.io/ext/bc/C/rpc",
-  "latestBlock": 92352131,
+  "latestBlock": 92355405,
   "sampleStepBlocks": 54,
   "sampleCount": 1459,
   "policy": {
@@ -12,178 +12,178 @@
   },
   "hours": [
     {
-      "hour": "2026-08-08 00:00",
-      "avgGwei": 0.06497,
-      "minGwei": 0.06097,
-      "maxGwei": 0.074331,
+      "hour": "2026-08-08 01:00",
+      "avgGwei": 0.048389,
+      "minGwei": 0.045666,
+      "maxGwei": 0.051149,
       "samples": 22
     },
     {
-      "hour": "2026-08-08 01:00",
-      "avgGwei": 0.055206,
-      "minGwei": 0.044452,
-      "maxGwei": 0.067608,
-      "samples": 61
-    },
-    {
       "hour": "2026-08-08 02:00",
-      "avgGwei": 0.048339,
-      "minGwei": 0.045724,
-      "maxGwei": 0.051689,
+      "avgGwei": 0.048577,
+      "minGwei": 0.04566,
+      "maxGwei": 0.051805,
       "samples": 61
     },
     {
       "hour": "2026-08-08 03:00",
-      "avgGwei": 0.048125,
-      "minGwei": 0.04393,
-      "maxGwei": 0.051552,
+      "avgGwei": 0.048317,
+      "minGwei": 0.044977,
+      "maxGwei": 0.051312,
       "samples": 60
     },
     {
       "hour": "2026-08-08 04:00",
-      "avgGwei": 0.058611,
-      "minGwei": 0.045257,
-      "maxGwei": 0.193515,
+      "avgGwei": 0.058579,
+      "minGwei": 0.045091,
+      "maxGwei": 0.195219,
       "samples": 60
     },
     {
       "hour": "2026-08-08 05:00",
-      "avgGwei": 0.052841,
-      "minGwei": 0.045182,
-      "maxGwei": 0.058575,
+      "avgGwei": 0.053223,
+      "minGwei": 0.045821,
+      "maxGwei": 0.060053,
       "samples": 61
     },
     {
       "hour": "2026-08-08 06:00",
-      "avgGwei": 0.054118,
-      "minGwei": 0.044977,
-      "maxGwei": 0.087973,
+      "avgGwei": 0.054539,
+      "minGwei": 0.044262,
+      "maxGwei": 0.088852,
       "samples": 60
     },
     {
       "hour": "2026-08-08 07:00",
-      "avgGwei": 0.048198,
-      "minGwei": 0.045529,
-      "maxGwei": 0.050785,
-      "samples": 61
+      "avgGwei": 0.048407,
+      "minGwei": 0.045184,
+      "maxGwei": 0.053181,
+      "samples": 60
     },
     {
       "hour": "2026-08-08 08:00",
-      "avgGwei": 0.05462,
-      "minGwei": 0.045656,
-      "maxGwei": 0.073667,
+      "avgGwei": 0.054136,
+      "minGwei": 0.04508,
+      "maxGwei": 0.074233,
       "samples": 60
     },
     {
       "hour": "2026-08-08 09:00",
-      "avgGwei": 0.059448,
-      "minGwei": 0.048175,
-      "maxGwei": 0.096659,
-      "samples": 60
+      "avgGwei": 0.059556,
+      "minGwei": 0.047946,
+      "maxGwei": 0.096103,
+      "samples": 61
     },
     {
       "hour": "2026-08-08 10:00",
-      "avgGwei": 0.059653,
-      "minGwei": 0.048713,
-      "maxGwei": 0.067014,
+      "avgGwei": 0.059834,
+      "minGwei": 0.048328,
+      "maxGwei": 0.069363,
       "samples": 62
     },
     {
       "hour": "2026-08-08 11:00",
-      "avgGwei": 0.048099,
-      "minGwei": 0.045282,
-      "maxGwei": 0.052628,
+      "avgGwei": 0.047906,
+      "minGwei": 0.044965,
+      "maxGwei": 0.05338,
       "samples": 61
     },
     {
       "hour": "2026-08-08 12:00",
-      "avgGwei": 0.058799,
-      "minGwei": 0.045199,
-      "maxGwei": 0.077629,
-      "samples": 61
-    },
-    {
-      "hour": "2026-08-08 13:00",
-      "avgGwei": 0.048881,
-      "minGwei": 0.045012,
-      "maxGwei": 0.056718,
-      "samples": 59
-    },
-    {
-      "hour": "2026-08-08 14:00",
-      "avgGwei": 0.05019,
-      "minGwei": 0.044898,
-      "maxGwei": 0.068904,
-      "samples": 63
-    },
-    {
-      "hour": "2026-08-08 15:00",
-      "avgGwei": 0.048885,
-      "minGwei": 0.045348,
-      "maxGwei": 0.052963,
+      "avgGwei": 0.058999,
+      "minGwei": 0.04517,
+      "maxGwei": 0.07348,
       "samples": 60
     },
     {
+      "hour": "2026-08-08 13:00",
+      "avgGwei": 0.048738,
+      "minGwei": 0.044236,
+      "maxGwei": 0.055095,
+      "samples": 60
+    },
+    {
+      "hour": "2026-08-08 14:00",
+      "avgGwei": 0.050498,
+      "minGwei": 0.045165,
+      "maxGwei": 0.068068,
+      "samples": 62
+    },
+    {
+      "hour": "2026-08-08 15:00",
+      "avgGwei": 0.048936,
+      "minGwei": 0.04487,
+      "maxGwei": 0.054769,
+      "samples": 61
+    },
+    {
       "hour": "2026-08-08 16:00",
-      "avgGwei": 0.053932,
-      "minGwei": 0.045845,
-      "maxGwei": 0.060321,
+      "avgGwei": 0.053849,
+      "minGwei": 0.045965,
+      "maxGwei": 0.060318,
       "samples": 61
     },
     {
       "hour": "2026-08-08 17:00",
-      "avgGwei": 0.060906,
-      "minGwei": 0.050264,
-      "maxGwei": 0.095178,
+      "avgGwei": 0.061165,
+      "minGwei": 0.049471,
+      "maxGwei": 0.100628,
       "samples": 61
     },
     {
       "hour": "2026-08-08 18:00",
-      "avgGwei": 0.053752,
-      "minGwei": 0.050297,
-      "maxGwei": 0.056999,
-      "samples": 63
+      "avgGwei": 0.053703,
+      "minGwei": 0.050386,
+      "maxGwei": 0.057959,
+      "samples": 62
     },
     {
       "hour": "2026-08-08 19:00",
-      "avgGwei": 0.053461,
-      "minGwei": 0.050001,
-      "maxGwei": 0.059163,
+      "avgGwei": 0.053647,
+      "minGwei": 0.048206,
+      "maxGwei": 0.057799,
       "samples": 61
     },
     {
       "hour": "2026-08-08 20:00",
-      "avgGwei": 0.055773,
-      "minGwei": 0.050575,
-      "maxGwei": 0.068786,
-      "samples": 60
+      "avgGwei": 0.055554,
+      "minGwei": 0.048796,
+      "maxGwei": 0.069893,
+      "samples": 61
     },
     {
       "hour": "2026-08-08 21:00",
-      "avgGwei": 0.057737,
-      "minGwei": 0.050001,
-      "maxGwei": 0.069546,
-      "samples": 60
+      "avgGwei": 0.057955,
+      "minGwei": 0.050642,
+      "maxGwei": 0.07159,
+      "samples": 59
     },
     {
       "hour": "2026-08-08 22:00",
-      "avgGwei": 0.05792,
-      "minGwei": 0.05106,
-      "maxGwei": 0.069949,
+      "avgGwei": 0.058299,
+      "minGwei": 0.050826,
+      "maxGwei": 0.070991,
       "samples": 61
     },
     {
       "hour": "2026-08-08 23:00",
-      "avgGwei": 0.05511,
-      "minGwei": 0.050233,
-      "maxGwei": 0.069857,
-      "samples": 59
+      "avgGwei": 0.055146,
+      "minGwei": 0.049648,
+      "maxGwei": 0.069566,
+      "samples": 60
     },
     {
       "hour": "2026-08-09 00:00",
-      "avgGwei": 0.053537,
-      "minGwei": 0.049738,
-      "maxGwei": 0.057279,
+      "avgGwei": 0.053857,
+      "minGwei": 0.049136,
+      "maxGwei": 0.058454,
+      "samples": 61
+    },
+    {
+      "hour": "2026-08-09 01:00",
+      "avgGwei": 0.060312,
+      "minGwei": 0.051499,
+      "maxGwei": 0.088883,
       "samples": 41
     }
   ]
