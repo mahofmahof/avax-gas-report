@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T19:28:21Z",
+  "generatedAt": "2026-08-16T20:33:24Z",
   "timezone": "Europe/Istanbul",
   "source": "https://rpc.l1beat.io/ext/bc/C/rpc",
-  "latestBlock": 92969712,
+  "latestBlock": 92973283,
   "sampleStepBlocks": 54,
-  "sampleCount": 1461,
+  "sampleCount": 1462,
   "policy": {
     "lowBelowWei": "90000000",
     "highAboveWei": "130000000",
@@ -12,18 +12,11 @@
   },
   "hours": [
     {
-      "hour": "2026-08-15 22:00",
-      "avgGwei": 0.06571,
-      "minGwei": 0.061621,
-      "maxGwei": 0.069228,
-      "samples": 33
-    },
-    {
       "hour": "2026-08-15 23:00",
-      "avgGwei": 0.067418,
+      "avgGwei": 0.069914,
       "minGwei": 0.062004,
       "maxGwei": 0.098868,
-      "samples": 60
+      "samples": 28
     },
     {
       "hour": "2026-08-16 00:00",
@@ -181,10 +174,17 @@
     },
     {
       "hour": "2026-08-16 22:00",
-      "avgGwei": 0.058992,
-      "minGwei": 0.056259,
-      "maxGwei": 0.061936,
-      "samples": 29
+      "avgGwei": 0.059069,
+      "minGwei": 0.055699,
+      "maxGwei": 0.06194,
+      "samples": 60
+    },
+    {
+      "hour": "2026-08-16 23:00",
+      "avgGwei": 0.059378,
+      "minGwei": 0.055906,
+      "maxGwei": 0.064807,
+      "samples": 35
     }
   ]
 }
