@@ -1,37 +1,16 @@
 {
-  "generatedAt": "2026-10-18T20:32:05Z",
+  "generatedAt": "2026-10-18T23:00:25Z",
   "timezone": "Europe/Istanbul",
   "source": "https://rpc.l1beat.io/ext/bc/C/rpc",
-  "latestBlock": 97910219,
+  "latestBlock": 97919141,
   "sampleStepBlocks": 60,
-  "sampleCount": 1455,
+  "sampleCount": 1452,
   "policy": {
     "lowBelowWei": "90000000",
     "highAboveWei": "130000000",
     "stopAboveWei": "220000000"
   },
   "hours": [
-    {
-      "hour": "2026-10-17 23:00",
-      "avgGwei": 5.001381,
-      "minGwei": 5.0,
-      "maxGwei": 5.03867,
-      "samples": 28
-    },
-    {
-      "hour": "2026-10-18 00:00",
-      "avgGwei": 5.166421,
-      "minGwei": 5.0,
-      "maxGwei": 8.139279,
-      "samples": 66
-    },
-    {
-      "hour": "2026-10-18 01:00",
-      "avgGwei": 5.009344,
-      "minGwei": 5.0,
-      "maxGwei": 5.158937,
-      "samples": 58
-    },
     {
       "hour": "2026-10-18 02:00",
       "avgGwei": 5.010722,
@@ -181,10 +160,31 @@
     },
     {
       "hour": "2026-10-18 23:00",
-      "avgGwei": 5.010353,
+      "avgGwei": 5.006994,
       "minGwei": 5.0,
       "maxGwei": 5.192141,
-      "samples": 35
+      "samples": 62
+    },
+    {
+      "hour": "2026-10-19 00:00",
+      "avgGwei": 5.00598,
+      "minGwei": 5.0,
+      "maxGwei": 5.155974,
+      "samples": 60
+    },
+    {
+      "hour": "2026-10-19 01:00",
+      "avgGwei": 5.175768,
+      "minGwei": 5.0,
+      "maxGwei": 8.700766,
+      "samples": 60
+    },
+    {
+      "hour": "2026-10-19 02:00",
+      "avgGwei": 5.00196,
+      "minGwei": 5.0,
+      "maxGwei": 5.003919,
+      "samples": 2
     }
   ]
 }
