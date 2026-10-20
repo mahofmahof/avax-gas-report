@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T19:09:15Z",
+  "generatedAt": "2026-10-20T23:07:33Z",
   "timezone": "Europe/Istanbul",
   "source": "https://rpc.l1beat.io/ext/bc/C/rpc",
-  "latestBlock": 98083892,
+  "latestBlock": 98098362,
   "sampleStepBlocks": 62,
-  "sampleCount": 1447,
+  "sampleCount": 1452,
   "policy": {
     "lowBelowWei": "90000000",
     "highAboveWei": "130000000",
@@ -12,39 +12,11 @@
   },
   "hours": [
     {
-      "hour": "2026-10-19 22:00",
-      "avgGwei": 2.515478,
-      "minGwei": 2.5,
-      "maxGwei": 3.045513,
-      "samples": 53
-    },
-    {
-      "hour": "2026-10-19 23:00",
-      "avgGwei": 2.505786,
-      "minGwei": 2.5,
-      "maxGwei": 2.630075,
-      "samples": 57
-    },
-    {
-      "hour": "2026-10-20 00:00",
-      "avgGwei": 2.50511,
-      "minGwei": 2.5,
-      "maxGwei": 2.618573,
-      "samples": 54
-    },
-    {
-      "hour": "2026-10-20 01:00",
-      "avgGwei": 2.51044,
-      "minGwei": 2.5,
-      "maxGwei": 2.697975,
-      "samples": 58
-    },
-    {
       "hour": "2026-10-20 02:00",
-      "avgGwei": 2.505414,
+      "avgGwei": 2.506076,
       "minGwei": 2.5,
       "maxGwei": 2.637649,
-      "samples": 55
+      "samples": 49
     },
     {
       "hour": "2026-10-20 03:00",
@@ -181,10 +153,38 @@
     },
     {
       "hour": "2026-10-20 22:00",
-      "avgGwei": 2.504023,
+      "avgGwei": 2.513294,
       "minGwei": 2.5,
-      "maxGwei": 2.540232,
-      "samples": 10
+      "maxGwei": 3.108736,
+      "samples": 59
+    },
+    {
+      "hour": "2026-10-20 23:00",
+      "avgGwei": 2.525345,
+      "minGwei": 2.499519,
+      "maxGwei": 2.724887,
+      "samples": 59
+    },
+    {
+      "hour": "2026-10-21 00:00",
+      "avgGwei": 2.509138,
+      "minGwei": 2.5,
+      "maxGwei": 2.650989,
+      "samples": 58
+    },
+    {
+      "hour": "2026-10-21 01:00",
+      "avgGwei": 2.504733,
+      "minGwei": 2.5,
+      "maxGwei": 2.678551,
+      "samples": 59
+    },
+    {
+      "hour": "2026-10-21 02:00",
+      "avgGwei": 2.5,
+      "minGwei": 2.5,
+      "maxGwei": 2.5,
+      "samples": 8
     }
   ]
 }
