@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T11:14:02Z",
+  "generatedAt": "2026-10-25T16:01:21Z",
   "timezone": "Europe/Istanbul",
   "source": "https://rpc.l1beat.io/ext/bc/C/rpc",
-  "latestBlock": 98509738,
+  "latestBlock": 98528453,
   "sampleStepBlocks": 61,
-  "sampleCount": 1461,
+  "sampleCount": 1462,
   "policy": {
     "lowBelowWei": "90000000",
     "highAboveWei": "130000000",
@@ -12,179 +12,179 @@
   },
   "hours": [
     {
-      "hour": "2026-10-24 14:00",
-      "avgGwei": 2.502323,
-      "minGwei": 2.5,
-      "maxGwei": 2.526669,
-      "samples": 47
-    },
-    {
-      "hour": "2026-10-24 15:00",
-      "avgGwei": 2.50424,
-      "minGwei": 2.5,
-      "maxGwei": 2.550604,
-      "samples": 60
-    },
-    {
-      "hour": "2026-10-24 16:00",
-      "avgGwei": 2.507897,
-      "minGwei": 2.5,
-      "maxGwei": 2.609374,
-      "samples": 66
-    },
-    {
-      "hour": "2026-10-24 17:00",
-      "avgGwei": 3.459361,
-      "minGwei": 2.5,
-      "maxGwei": 15.840227,
-      "samples": 67
-    },
-    {
-      "hour": "2026-10-24 18:00",
-      "avgGwei": 2.63977,
-      "minGwei": 2.5,
-      "maxGwei": 4.501547,
-      "samples": 65
-    },
-    {
       "hour": "2026-10-24 19:00",
-      "avgGwei": 2.525638,
+      "avgGwei": 2.526341,
       "minGwei": 2.5,
-      "maxGwei": 3.365516,
-      "samples": 64
+      "maxGwei": 3.339879,
+      "samples": 63
     },
     {
       "hour": "2026-10-24 20:00",
-      "avgGwei": 2.505931,
+      "avgGwei": 2.504461,
       "minGwei": 2.5,
-      "maxGwei": 2.561521,
+      "maxGwei": 2.604027,
       "samples": 62
     },
     {
       "hour": "2026-10-24 21:00",
-      "avgGwei": 2.504046,
+      "avgGwei": 2.501745,
       "minGwei": 2.5,
-      "maxGwei": 2.551228,
+      "maxGwei": 2.551732,
       "samples": 62
     },
     {
       "hour": "2026-10-24 22:00",
-      "avgGwei": 2.503818,
+      "avgGwei": 2.505768,
       "minGwei": 2.5,
-      "maxGwei": 2.565968,
+      "maxGwei": 2.698623,
       "samples": 59
     },
     {
       "hour": "2026-10-24 23:00",
-      "avgGwei": 2.512806,
-      "minGwei": 2.499519,
-      "maxGwei": 3.152363,
+      "avgGwei": 2.512383,
+      "minGwei": 2.5,
+      "maxGwei": 3.07,
       "samples": 59
     },
     {
       "hour": "2026-10-25 00:00",
-      "avgGwei": 2.506579,
+      "avgGwei": 2.508031,
       "minGwei": 2.5,
-      "maxGwei": 2.607606,
+      "maxGwei": 2.631095,
       "samples": 58
     },
     {
       "hour": "2026-10-25 01:00",
-      "avgGwei": 2.504693,
+      "avgGwei": 2.501185,
       "minGwei": 2.5,
-      "maxGwei": 2.5637,
+      "maxGwei": 2.530149,
       "samples": 56
     },
     {
       "hour": "2026-10-25 02:00",
-      "avgGwei": 2.513682,
+      "avgGwei": 2.510438,
       "minGwei": 2.5,
-      "maxGwei": 2.776568,
+      "maxGwei": 2.665562,
       "samples": 55
     },
     {
       "hour": "2026-10-25 03:00",
-      "avgGwei": 2.50458,
+      "avgGwei": 2.502037,
       "minGwei": 2.5,
-      "maxGwei": 2.545556,
+      "maxGwei": 2.556303,
       "samples": 56
     },
     {
       "hour": "2026-10-25 04:00",
-      "avgGwei": 2.503492,
+      "avgGwei": 2.5058,
       "minGwei": 2.5,
-      "maxGwei": 2.589098,
+      "maxGwei": 2.636534,
       "samples": 57
     },
     {
       "hour": "2026-10-25 05:00",
-      "avgGwei": 2.511624,
+      "avgGwei": 2.511093,
       "minGwei": 2.5,
-      "maxGwei": 2.955445,
+      "maxGwei": 2.985517,
       "samples": 61
     },
     {
       "hour": "2026-10-25 06:00",
-      "avgGwei": 2.505972,
+      "avgGwei": 2.505291,
       "minGwei": 2.5,
-      "maxGwei": 2.590865,
-      "samples": 59
+      "maxGwei": 2.687495,
+      "samples": 58
     },
     {
       "hour": "2026-10-25 07:00",
-      "avgGwei": 2.504048,
+      "avgGwei": 2.504993,
       "minGwei": 2.5,
-      "maxGwei": 2.565788,
-      "samples": 60
+      "maxGwei": 2.612661,
+      "samples": 61
     },
     {
       "hour": "2026-10-25 08:00",
-      "avgGwei": 2.504899,
+      "avgGwei": 2.50402,
       "minGwei": 2.5,
-      "maxGwei": 2.611636,
+      "maxGwei": 2.536534,
       "samples": 60
     },
     {
       "hour": "2026-10-25 09:00",
-      "avgGwei": 2.508172,
+      "avgGwei": 2.509252,
       "minGwei": 2.5,
-      "maxGwei": 2.679812,
+      "maxGwei": 2.679867,
       "samples": 61
     },
     {
       "hour": "2026-10-25 10:00",
-      "avgGwei": 2.503044,
+      "avgGwei": 2.505939,
       "minGwei": 2.5,
-      "maxGwei": 2.561294,
+      "maxGwei": 2.650626,
       "samples": 61
     },
     {
       "hour": "2026-10-25 11:00",
-      "avgGwei": 2.5034,
+      "avgGwei": 2.502772,
       "minGwei": 2.5,
-      "maxGwei": 2.573258,
+      "maxGwei": 2.561625,
       "samples": 63
     },
     {
       "hour": "2026-10-25 12:00",
-      "avgGwei": 2.50688,
+      "avgGwei": 2.508276,
       "minGwei": 2.5,
-      "maxGwei": 2.670858,
+      "maxGwei": 2.679525,
       "samples": 61
     },
     {
       "hour": "2026-10-25 13:00",
-      "avgGwei": 2.505926,
+      "avgGwei": 2.503983,
       "minGwei": 2.5,
-      "maxGwei": 2.600278,
+      "maxGwei": 2.623153,
       "samples": 67
     },
     {
       "hour": "2026-10-25 14:00",
-      "avgGwei": 2.509512,
+      "avgGwei": 2.503939,
       "minGwei": 2.5,
-      "maxGwei": 2.565636,
-      "samples": 15
+      "maxGwei": 2.580477,
+      "samples": 61
+    },
+    {
+      "hour": "2026-10-25 15:00",
+      "avgGwei": 2.508964,
+      "minGwei": 2.5,
+      "maxGwei": 2.606057,
+      "samples": 62
+    },
+    {
+      "hour": "2026-10-25 16:00",
+      "avgGwei": 2.504361,
+      "minGwei": 2.5,
+      "maxGwei": 2.574866,
+      "samples": 67
+    },
+    {
+      "hour": "2026-10-25 17:00",
+      "avgGwei": 2.509837,
+      "minGwei": 2.5,
+      "maxGwei": 2.733562,
+      "samples": 67
+    },
+    {
+      "hour": "2026-10-25 18:00",
+      "avgGwei": 2.520358,
+      "minGwei": 2.5,
+      "maxGwei": 3.281915,
+      "samples": 63
+    },
+    {
+      "hour": "2026-10-25 19:00",
+      "avgGwei": 2.505151,
+      "minGwei": 2.5,
+      "maxGwei": 2.510302,
+      "samples": 2
     }
   ]
 }
